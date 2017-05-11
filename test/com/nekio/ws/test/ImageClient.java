@@ -32,7 +32,7 @@ public class ImageClient {
         //download(contract, "duke.gif");
         //upload(contract, file);
         
-        File folder = new File("C:\\Users\\SITI\\Pictures\\Tamsa\\");
+        File folder = new File("C:\\Users\\Username\\Pictures\\MyFolder\\");
         uploadPreview(contract, folder);
     }
     
